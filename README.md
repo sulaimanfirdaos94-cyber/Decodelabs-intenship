@@ -1,6 +1,6 @@
-##DecodeLabs Internship Projects
+## DecodeLabs Internship Projects
 
-#About This Repository
+# About This Repository
 
 This repository showcases projects completed during my DecodeLabs Data Analytics Internship.
 
