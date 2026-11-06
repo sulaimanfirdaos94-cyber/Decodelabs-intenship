@@ -1,24 +1,28 @@
-# DecodeLabs Internship Projects
+##DecodeLabs Internship Projects
 
-## About This Repository
+#About This Repository
 
-This repository contains my projects completed during the DecodeLabs Data Analytics Internship.
+This repository showcases projects completed during my DecodeLabs Data Analytics Internship.
 
-The projects demonstrate my practical experience in data preparation, exploratory data analysis, and SQL-based data analysis.
+The projects demonstrate my practical experience in data preparation, exploratory data analysis, SQL-based data analysis, and data visualization.
 
 Projects
 
 Project 1 – Data Cleaning
 
-This project focuses on preparing the dataset for analysis by identifying and addressing data quality issues.
+This project focuses on preparing datasets for analysis by identifying and addressing data quality issues, including duplicates, inconsistencies, and missing values.
 
 Project 2 – Exploratory Data Analysis (EDA)
 
-This project explores the dataset to identify patterns, trends, relationships, and unusual observations.
+This project explores datasets to identify patterns, trends, relationships, and unusual observations, providing a better understanding of the data.
 
 Project 3 – SQL Data Analysis
 
-This project applies SQL queries to investigate business questions and extract meaningful insights from the dataset.
+This project applies SQL queries to investigate business questions, analyse customer behaviour, examine purchasing patterns, and extract meaningful business insights.
+
+Project 4 – Data Visualization
+
+This project focuses on transforming analysed data into meaningful visual reports and dashboards using Excel. It presents key performance indicators, trends, comparisons, and insights in an easy-to-understand format.
 
 Tools Used
 
